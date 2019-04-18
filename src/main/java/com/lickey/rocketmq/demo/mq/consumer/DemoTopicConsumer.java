@@ -1,8 +1,8 @@
 package com.lickey.rocketmq.demo.mq.consumer;
 
 import com.alibaba.fastjson.JSON;
-import com.shandiangou.starter.rocketmq.annotation.MQConsumer;
-import com.shandiangou.starter.rocketmq.base.AbstractMQPushConsumer;
+import com.lickey.starter.rocketmq.annotation.MQConsumer;
+import com.lickey.starter.rocketmq.base.AbstractMQPushConsumer;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Map;

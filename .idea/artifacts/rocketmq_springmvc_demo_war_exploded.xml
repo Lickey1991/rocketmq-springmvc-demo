@@ -7,7 +7,7 @@
           <element id="module-output" name="rocketmq-springmvc-demo" />
         </element>
         <element id="directory" name="lib">
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/shandiangou/spring-boot-starter-rocketmq/1.0.0-SNAPSHOT/spring-boot-starter-rocketmq-1.0.0-20190415.100246-3.jar" output-file-name="spring-boot-starter-rocketmq-1.0.0-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.lickey:spring-boot-starter-rocketmq:1.0.0-SNAPSHOT" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:2.0.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:2.0.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.0.3.RELEASE" />
@@ -24,11 +24,11 @@
           <element id="library" level="project" name="Maven: org.apache.rocketmq:rocketmq-client:4.3.0" />
           <element id="library" level="project" name="Maven: org.apache.rocketmq:rocketmq-common:4.3.0" />
           <element id="library" level="project" name="Maven: org.apache.rocketmq:rocketmq-remoting:4.3.0" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.29" />
           <element id="library" level="project" name="Maven: io.netty:netty-all:4.0.42.Final" />
           <element id="library" level="project" name="Maven: org.apache.rocketmq:rocketmq-logging:4.3.0" />
           <element id="library" level="project" name="Maven: io.netty:netty-tcnative-boringssl-static:1.1.33.Fork26" />
           <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.4" />
-          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.53" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.7.RELEASE" />

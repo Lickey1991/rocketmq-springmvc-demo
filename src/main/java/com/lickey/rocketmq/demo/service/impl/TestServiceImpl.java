@@ -1,7 +1,7 @@
 package com.lickey.rocketmq.demo.service.impl;
 
 
-import com.shandiangou.starter.rocketmq.base.MessageBuilder;
+import com.lickey.starter.rocketmq.base.MessageBuilder;
 import com.lickey.rocketmq.demo.domain.Test;
 import com.lickey.rocketmq.demo.mq.producer.DemoSendCallback;
 import com.lickey.rocketmq.demo.mq.producer.RocketMqProducer;

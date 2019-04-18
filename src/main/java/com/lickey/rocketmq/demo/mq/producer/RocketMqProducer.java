@@ -1,8 +1,8 @@
 package com.lickey.rocketmq.demo.mq.producer;
 
 import com.alibaba.fastjson.JSON;
-import com.shandiangou.starter.rocketmq.annotation.MQProducer;
-import com.shandiangou.starter.rocketmq.base.AbstractMQProducer;
+import com.lickey.starter.rocketmq.annotation.MQProducer;
+import com.lickey.starter.rocketmq.base.AbstractMQProducer;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.rocketmq.client.producer.SendResult;

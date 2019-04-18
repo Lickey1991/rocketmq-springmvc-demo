@@ -1,7 +1,7 @@
 package com.lickey.rocketmq.demo.mq.producer;
 
-import com.shandiangou.starter.rocketmq.annotation.MQProducer;
-import com.shandiangou.starter.rocketmq.base.AbstractMQProducer;
+import com.lickey.starter.rocketmq.annotation.MQProducer;
+import com.lickey.starter.rocketmq.base.AbstractMQProducer;
 import lombok.Getter;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

@@ -1,8 +1,8 @@
 package com.lickey.rocketmq.demo.mq.producer;
 
 import com.alibaba.fastjson.JSON;
-import com.shandiangou.starter.rocketmq.annotation.MQTransactionProducer;
-import com.shandiangou.starter.rocketmq.base.AbstractMQTransactionProducer;
+import com.lickey.starter.rocketmq.annotation.MQTransactionProducer;
+import com.lickey.starter.rocketmq.base.AbstractMQTransactionProducer;
 import com.lickey.rocketmq.demo.domain.Test;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.rocketmq.client.producer.LocalTransactionState;
